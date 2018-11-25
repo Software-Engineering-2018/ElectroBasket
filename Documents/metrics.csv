@@ -1,0 +1,24 @@
+Lines of code metrics,Sat, 24 Nov 2018 00:04:27 IST
+Package,LOC,LOC(rec),LOCp,LOCp(rec),LOCt,LOCt(rec)
+"",n/a,"1,615",n/a,"1,580",n/a,35
+"com",n/a,"1,615",n/a,"1,580",n/a,35
+"com.example",n/a,"1,615",n/a,"1,580",n/a,35
+"com.example.siddhant",n/a,"1,615",n/a,"1,580",n/a,35
+"com.example.siddhant.electrobasket","1,615","1,615","1,580","1,580",35,35
+
+Module,L(Groovy),L(HTML),L(J),L(KT),L(XML),LOC,LOCp,LOCt,NCLOC,NCLOCp,NCLOCt
+"ElectroBasket",23,0,0,0,0,274,0,0,29,0,0
+"app",33,0,"1,615",0,"2,849","4,571","4,384",35,"4,500","4,325",24
+
+FileType,LOC,NCLOC
+"Groovy",56,55
+"JSON",55,55
+"Java","1,615","1,545"
+"ProGuard Rules Language File",18,18
+"Properties",29,7
+"Text",223,n/a
+"XML","2,849","2,849"
+
+Project,L(Groovy),L(HTML),L(J),L(KT),L(XML),LOC,LOCp,LOCt,NCLOC,NCLOCp,NCLOCt
+"project",56,0,"1,615",0,"2,849","4,845","4,384",35,"4,529","4,325",24
+
